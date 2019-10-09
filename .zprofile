@@ -1,9 +1,3 @@
-
-
-if [ -f ~/.bashrc ]; then
-  . ~/.bashrc
-fi
-
 #path
 export PATH="/usr/local/sbin:$PATH"
 export PYENV_ROOT="$HOME/.pyenv"
